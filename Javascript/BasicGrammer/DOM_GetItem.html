@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title> Shopping List </title>
+</head>
+<body>
+    <h1> What to buy </h1>
+    <p title="a gentle reminder"> Don't forget to buy stuff </p>
+    <ul id="purchases">
+        <li> a tin of beans </li>
+        <li class="sale">Mike </li>
+        <li class="sale important">Cheese </li>
+    </ul>
+
+    <!--JavaScript中getElementById获取元素-->
+    <script>
+        //alert(typeof document.getElementById("purchases"));
+        //alert(document.getElementsByTagName("li").length);
+        //alert(document.getElementsByTagName("*").length);
+
+        var shopping = document.getElementById("purchases");
+        var items = shopping.getElementsByTagName("*");
+        alert(items.length);
+    </script>
+
+</body>
+</html>
