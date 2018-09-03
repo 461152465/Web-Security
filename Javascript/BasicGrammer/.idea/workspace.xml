@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/PHP_GET.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -70,7 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,12 +81,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/" />
+    <property name="last_opened_file_path" value="F:/AphAssis" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -129,11 +129,12 @@
       <workItem from="1523463148224" duration="1104000" />
       <workItem from="1523632888852" duration="622000" />
       <workItem from="1524151495066" duration="679000" />
+      <workItem from="1533282965144" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7534000" />
+    <option name="totallyTimeSpent" value="7604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -168,6 +169,20 @@
     <entry file="file://$PROJECT_DIR$/DOM_GetItem.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_GET.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM_GetItem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
           <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
@@ -184,13 +199,7 @@
     <entry file="file://$PROJECT_DIR$/GrammerTry.html" />
     <entry file="file://$PROJECT_DIR$/GrammerTry.html" />
     <entry file="file://$PROJECT_DIR$/DOM_GetItem.xhtml" />
-    <entry file="file://$PROJECT_DIR$/php_Get.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/php_Get.xhtml" />
     <entry file="file://$PROJECT_DIR$/DOM_GetItem.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -201,7 +210,7 @@
     <entry file="file://$PROJECT_DIR$/PHP_GET.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
